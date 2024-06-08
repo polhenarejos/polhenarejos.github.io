@@ -2,7 +2,7 @@
   "name": "Pico HSM",
   "version": "4.0",
   "funding_url": "https://www.paypal.me/polhenarejos",
-  "new_install_prompt_erase": false,
+  "new_install_prompt_erase": true,
   "builds": [
     {
       "chipFamily": "ESP32-S3",
