@@ -7,7 +7,7 @@
     {
       "chipFamily": "ESP32-S3",
       "parts": [
-        { "path": "https://raw.githubusercontent.com/polhenarejos/polhenarejos.github.io/main/esp/fw/merged-flash-4.0.bin", "offset": 0 }
+        { "path": "https://raw.githubusercontent.com/polhenarejos/polhenarejos.github.io/main/esp/fw/pico_hsm_esp32-s3_4.0.bin", "offset": 0 }
       ]
     }
   ]
