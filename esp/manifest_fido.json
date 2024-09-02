@@ -1,0 +1,15 @@
+{
+  "name": "Pico Fido",
+  "version": "5.12",
+  "funding_url": "https://www.paypal.me/polhenarejos",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        { "path": "https://raw.githubusercontent.com/polhenarejos/polhenarejos.github.io/main/esp/fw/pico_fido_esp32-s3_5.12.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
+
