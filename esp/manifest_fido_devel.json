@@ -7,7 +7,7 @@
     {
       "chipFamily": "ESP32-S3",
       "parts": [
-        { "path": "https://www.picokeys.com/esp32-fw/pico-fido/releases/download/nightly-development/pico_fido_esp32-s3.bin", "offset": 0 }
+        { "path": "https://www.picokeys.com/esp32_fw.php?product=pico-fido", "offset": 0 }
       ]
     }
   ]

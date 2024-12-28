@@ -7,7 +7,7 @@
     {
       "chipFamily": "ESP32-S3",
       "parts": [
-        { "path": "https://www.picokeys.com/esp32-fw/pico-hsm/releases/download/nightly-development/pico_hsm_esp32-s3.bin", "offset": 0 }
+        { "path": "https://www.picokeys.com/esp32_fw.php?product=pico-hsm", "offset": 0 }
       ]
     }
   ]
