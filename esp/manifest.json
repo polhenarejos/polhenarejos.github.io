@@ -1,13 +1,13 @@
 {
   "name": "Pico HSM",
-  "version": "5.0",
+  "version": "5.2",
   "funding_url": "https://www.paypal.me/polhenarejos",
   "new_install_prompt_erase": true,
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "parts": [
-        { "path": "https://raw.githubusercontent.com/polhenarejos/polhenarejos.github.io/main/esp/fw/pico_hsm_esp32-s3_5.0.bin", "offset": 0 }
+        { "path": "https://raw.githubusercontent.com/polhenarejos/polhenarejos.github.io/main/esp/fw/pico_hsm_esp32-s3_5.2.bin", "offset": 0 }
       ]
     }
   ]

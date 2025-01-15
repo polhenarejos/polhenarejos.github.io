@@ -1,6 +1,6 @@
 {
   "name": "Pico HSM (Development)",
-  "version": "5.0",
+  "version": "5.2",
   "funding_url": "https://www.paypal.me/polhenarejos",
   "new_install_prompt_erase": true,
   "builds": [
