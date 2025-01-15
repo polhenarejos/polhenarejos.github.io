@@ -1,13 +1,13 @@
 {
   "name": "Pico OpenPGP",
-  "version": "3.0",
+  "version": "3.2",
   "funding_url": "https://www.paypal.me/polhenarejos",
   "new_install_prompt_erase": true,
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "parts": [
-        { "path": "https://raw.githubusercontent.com/polhenarejos/polhenarejos.github.io/main/esp/fw/pico_openpgp_esp32-s3_3.0.bin", "offset": 0 }
+        { "path": "https://raw.githubusercontent.com/polhenarejos/polhenarejos.github.io/main/esp/fw/pico_openpgp_esp32-s3_3.2.bin", "offset": 0 }
       ]
     }
   ]
