@@ -1,13 +1,19 @@
 {
   "name": "Pico HSM (Development)",
-  "version": "5.2",
+  "version": "5.4",
   "funding_url": "https://www.paypal.me/polhenarejos",
   "new_install_prompt_erase": true,
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "parts": [
-        { "path": "https://www.picokeys.com/esp32_fw.php?product=pico-hsm", "offset": 0 }
+        { "path": "https://www.picokeys.com/esp32_fw.php?product=pico-hsm&chip=esp32s3", "offset": 0 }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-S2",
+      "parts": [
+        { "path": "https://www.picokeys.com/esp32_fw.php?product=pico-hsm&chip=esp32s2", "offset": 0 }
       ]
     }
   ]
