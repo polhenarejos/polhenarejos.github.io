@@ -1,6 +1,6 @@
 {
   "name": "Pico Fido (Development)",
-  "version": "6.6",
+  "version": "7.0",
   "funding_url": "https://www.paypal.me/polhenarejos",
   "new_install_prompt_erase": true,
   "builds": [
